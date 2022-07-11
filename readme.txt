@@ -5,3 +5,5 @@ my name is liang.li
 
 
 add branch
+
+Creating a new branch is quick & simple
